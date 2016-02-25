@@ -6,6 +6,16 @@ order: 1
 share: false
 ---
 
-[QckTheme](https://github.com/qckanemoto/jekyll-qck-theme) is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+PENの中の人のサイトは以下になります。
 
-Enjoy! :smiley:
+* PEN開発メモWiki
+    * http://pen.moe.hm/
+* GitHub
+    * https://github.com/xDNCL
+* Twitter
+    * https://twitter.com/rn_magi
+* Facebook
+    * https://www.facebook.com/rn.magi
+* PENの中の人のメモBlog
+    * http://xdncl.github.io/blog/
+    
