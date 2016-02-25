@@ -1,7 +1,7 @@
 #
 # Basic settings.
 #
-url: http://xdncl.github.io
+url: https://xdncl.github.io
 baseurl: /blog
 title: PENの中の人
 description: PENの中の人のメモBlog
@@ -74,7 +74,7 @@ share_buttons:
   facebook: true   # needs ogp.fb.app_id
   hatena: true
 ogp:
-  image_url: http://xdncl.github.io/blog/assets/img/ogp.png
+  image_url: https://xdncl.github.io/blog/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: 966242223397117 # facebook application id
