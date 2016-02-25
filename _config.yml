@@ -1,0 +1,118 @@
+#
+# Basic settings.
+#
+# url: http://localhost:4000
+# baseurl: ""
+url: http://xdncl.github.io
+baseurl: /jekyll-test
+title: PENの中の人
+description: PENの中の人のメモBlog
+avatar: /assets/img/ogp.png
+language: ja
+timezone: Asia/Tokyo
+
+#
+# Icons
+#
+icons:
+  rss: true
+  email:
+  github: xDNCL
+  bitbucket:
+  twitter: rn_magi
+  facebook: rn.magi
+  google_plus:
+  tumblr:
+  behance:
+  dribbble:
+  flickr:
+  instagram:
+  linkedin:  # full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # full URL
+  steam:
+  wordpress:
+  youtube:
+
+#
+# Prettify url.
+#
+permalink: pretty
+
+#
+# Scripts.
+#
+google_analytics: # e.g. UA-000000-01
+disqus:
+
+#
+# Localizations.
+#
+str_next: Next
+str_prev: Prev
+str_read_more: Read more...
+str_search: Search
+str_recent_posts: Recent posts
+str_show_all_posts: Show all posts
+
+#
+# Recent posts.
+#
+recent_posts_num: 10
+
+#
+# Pagination.
+#
+paginate: 10
+paginate_path: page/:num
+
+#
+# Social.
+#
+share_buttons:
+  twitter: true
+  facebook: true   # needs ogp.fb.app_id
+  hatena: true
+ogp:
+  image_url: http://xdncl.github.io/jekyll-test/assets/img/ogp.png
+  fb:
+    admin: # facebook admin id
+    app_id: 966242223397117 # facebook application id
+
+#
+# Gems.
+#
+gems:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
+
+#
+# Styles: see "_sass/base/_variables.scss"
+#
+
+#
+# !! Danger zone !!
+#
+
+include: ["_pages"]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+  style: :compressed # or :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
