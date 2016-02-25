@@ -2,4 +2,4 @@
 PENの中の人の備忘録だと思われます。
 
 * GitHub Pages
-  * http://xdncl.github.io/blog/
+  * https://xdncl.github.io/blog/
