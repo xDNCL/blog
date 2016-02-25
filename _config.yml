@@ -4,7 +4,7 @@
 # url: http://localhost:4000
 # baseurl: ""
 url: http://xdncl.github.io
-baseurl: /jekyll-test
+baseurl: /blog
 title: PENの中の人
 description: PENの中の人のメモBlog
 avatar: /assets/img/ogp.png
@@ -76,7 +76,7 @@ share_buttons:
   facebook: true   # needs ogp.fb.app_id
   hatena: true
 ogp:
-  image_url: http://xdncl.github.io/jekyll-test/assets/img/ogp.png
+  image_url: http://xdncl.github.io/blog/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: 966242223397117 # facebook application id
