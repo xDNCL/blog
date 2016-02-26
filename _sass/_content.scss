@@ -21,10 +21,13 @@
 
     h2 {
         font-size: x-large;
+        border-left: 0.5em solid #999;
+        padding-left: 0.3em;
     }
 
     h3 {
         font-size: large;
+        border-bottom: 2px solid #999;
     }
 
     blockquote {
