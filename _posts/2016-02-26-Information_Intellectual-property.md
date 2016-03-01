@@ -25,7 +25,5 @@ tags: Information
 
 #### 2016/03/02 追記
 
-* 政府与党が著作権法改正案、海賊行為を非親告罪化、保護期間は70年に延長 -INTERNET Watch
-    * [http://internet.watch.impress.co.jp/docs/news/20160301_746253.html](http://internet.watch.impress.co.jp/docs/news/20160301_746253.html)
-* 環太平洋パートナーシップ（TPP）協定に伴う制度整備の在り方等に関する報告書（案）
-    * [http://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoki/h27_09/pdf/shiryo_1.pdf](http://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoki/h27_09/pdf/shiryo_1.pdf)
+* [政府与党が著作権法改正案、海賊行為を非親告罪化、保護期間は70年に延長 -INTERNET Watch](http://internet.watch.impress.co.jp/docs/news/20160301_746253.html)
+* [環太平洋パートナーシップ（TPP）協定に伴う制度整備の在り方等に関する報告書（案）](http://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoki/h27_09/pdf/shiryo_1.pdf)
