@@ -22,3 +22,10 @@ tags: Information
 あとTPPに伴う制度改正で著作権をどうするかの議論が行われており「今、授業で扱ったことが変わるので各自自分で最新の情報を集めよう」と伝える。その時に日経経済新聞「[著作権侵害、告訴なしでも摘発へ　漫画同人誌は対象外](http://www.nikkei.com/article/DGXLASDG05H81_T20C16A2CC1000/)」を掲示した。
 
 あと日経経済新聞に「[著作権の保護、欧米並みに延長　政府がＴＰＰ合意で見直し案](http://www.nikkei.com/article/DGXLASDF24H0S_U6A220C1PP8000/)」という見直しのポイントが書かれた記事をみつけた。次回の授業の時にちょろっとだけ紹介するか。
+
+#### 2016/03/02 追記
+
+* 政府与党が著作権法改正案、海賊行為を非親告罪化、保護期間は70年に延長 -INTERNET Watch
+    * [http://internet.watch.impress.co.jp/docs/news/20160301_746253.html](http://internet.watch.impress.co.jp/docs/news/20160301_746253.html)
+* 環太平洋パートナーシップ（TPP）協定に伴う制度整備の在り方等に関する報告書（案）
+    * [http://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoki/h27_09/pdf/shiryo_1.pdf](http://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoki/h27_09/pdf/shiryo_1.pdf)
