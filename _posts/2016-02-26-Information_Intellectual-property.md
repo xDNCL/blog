@@ -2,6 +2,7 @@
 layout: post
 title: 知的財産権に関する授業で扱ったことのメモ
 tags: Information
+update: 2016-03-02 02:45:18 +0900
 ---
 
 ## 「社会と情報」の授業
