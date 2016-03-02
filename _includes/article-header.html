@@ -31,6 +31,13 @@
                 </li>
                 {% endif %}
 
+                {% if page.update %}
+                <li>
+                    <i class="fa fa-calendar-plus-o"></i>
+                    {{ page.update | date: "%Y-%m-%d" }}
+                </li>
+                {% endif %}
+
                 {% if page.author %}
                 <li>
                     <a href="{{ '/search/?a=' | append: page.author | prepend: site.baseurl }}">
