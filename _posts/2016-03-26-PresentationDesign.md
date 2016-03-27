@@ -11,7 +11,7 @@ tags: Book
 
 ## SlideShare
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1YGJvCkteJ802w" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yutamorishige50/ss-41321443" title="見やすいプレゼン資料の作り方 - リニューアル増量版" target="_blank">見やすいプレゼン資料の作り方 - リニューアル増量版</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yutamorishige50">スマートキャンプ株式会社</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1YGJvCkteJ802w" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yutamorishige50/ss-41321443" title="見やすいプレゼン資料の作り方 - リニューアル増量版" target="_blank">見やすいプレゼン資料の作り方 - リニューアル増量版</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yutamorishige50">スマートキャンプ株式会社</a></strong> </div>
 
 ## Amazonで購入
 
