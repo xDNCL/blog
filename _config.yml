@@ -100,7 +100,7 @@ include: ["_pages"]
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: rouge
+  syntax_highlighter: rouge
 
 excerpt_separator: <!--more-->
 
