@@ -4,7 +4,7 @@ title: Win10でUNIXコマンドのサポート！？
 tags: Windows
 ---
 
-* 次期Windows 10でUNIXコマンドをネイティブサポート | マイナビニュース
+* 次期Windows 10でUNIXコマンドをネイティブサポート - マイナビニュース
     * [http://news.mynavi.jp/news/2016/03/31/147/](http://news.mynavi.jp/news/2016/03/31/147/)
 
 > 3月30日(現地時間)、Microsoftは2016年夏のリリースを予定している次期Windows 10アップデート「Anniversary Update」で、bashを始めとするUNIXコマンドを仮想マシンやコンテナーを用いず、ネイティブで実行可能になることを公式ブログで明らかにした。
